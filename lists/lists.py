@@ -1,4 +1,5 @@
 # List is similar to the arrays in other programming languages but with minimal differences
+# List is mutable
 
 # Any type of the data structure can be stored in a list.
 
