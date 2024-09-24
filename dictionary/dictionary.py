@@ -7,3 +7,5 @@ student = {
     "grade" : 3.2
 
 }
+print(student)
+print(student["name"])
