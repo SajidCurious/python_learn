@@ -1,0 +1,1 @@
+# For loops are used for sequential travel. For traversing Lists,
