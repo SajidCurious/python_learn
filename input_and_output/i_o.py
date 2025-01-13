@@ -18,3 +18,10 @@ f = open("sajid.txt","r")
 data = f.read(6)
 print(data)
 f.close()
+
+#  If we wanted to retrieve the first line from the file, we can just do it.
+
+f = open("sajid.txt","r")
+line1 = f.readline()
+print(line1)
+f.close()
