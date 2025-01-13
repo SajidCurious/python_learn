@@ -11,3 +11,10 @@ data = f.read()
 print(data)
 print(type(data))
 f.close()
+
+# If we just wanted to retrieve the specific characters from the imported file, we should add the characters to the read function.
+
+f = open("sajid.txt","r")
+data = f.read(6)
+print(data)
+f.close()
