@@ -1,2 +1,1 @@
-I am Mohammed Sajid, pursuing my masters in computer science.
-This is the line 2 and i want it to render the service using the react router and then comply it using the rings of the next.
+I am Mohammed Sajid/nPursuing my second semesterabc
