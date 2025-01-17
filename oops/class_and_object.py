@@ -2,9 +2,12 @@
 # object is an instance of the class
 
 class Student:
-    name = "Sajid"
-    def __init__(self):
+    def __init__(self, fullname):
+        self.name = fullname
         print("I'm winning the game")
 
-s1 = Student()
-# print(s1.name)
+s1 = Student("Sajid")
+print(s1.name)
+
+s2 = Student("Wajid")
+print(s2.name)
